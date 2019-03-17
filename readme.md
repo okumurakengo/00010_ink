@@ -9,3 +9,6 @@ yarn
 yarn run webpack
 node dist/main.js 
 ```
+
+![Alt Text](./Dl2JacS1hQ.gif)
+
