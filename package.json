@@ -1,0 +1,25 @@
+{
+  "name": "01_ink",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.3.4",
+    "@babel/plugin-proposal-class-properties": "^7.3.4",
+    "@babel/preset-react": "^7.0.0",
+    "babel-loader": "^8.0.5",
+    "chalk": "^2.4.2",
+    "ink": "^2.0.5",
+    "ink-box": "^1.0.0",
+    "lodash": "^4.17.11",
+    "react": "^16.8.4",
+    "webpack": "^4.29.6",
+    "webpack-cli": "^3.3.0"
+  }
+}
